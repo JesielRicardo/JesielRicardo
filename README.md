@@ -13,5 +13,4 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JesielRicardo&show_icons=true&theme=radical)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JesielRicardo&show_icons=true&theme=dark)
